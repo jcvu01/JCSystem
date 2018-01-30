@@ -9,8 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Endpoints", "Endpoints", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCSystem.Endpoints.Player", "src\Endpoints\JCSystem.Endpoints.Player\JCSystem.Endpoints.Player.csproj", "{C3F1FFDE-9078-4374-9A55-66BD8389A2D3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{45DD4D75-8F00-42C1-AA06-A346B64CD1DE}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vlc", "Vlc", "{578B2E96-714D-4FEA-B3E7-C9D0B53911A8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JCSystem.Core.Vlc", "src\Core\Vlc\JCSystem.Core.Vlc\JCSystem.Core.Vlc.csproj", "{5D90A6A0-151D-43F0-BB96-423290AFDBBD}"
