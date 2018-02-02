@@ -4,7 +4,7 @@
     <TargetFrameworks>net471;netstandard2.0</TargetFrameworks>
     <Description>.Net API to use the audio/video capabilities of the VLC libraries.</Description>
     <PackageTags>vlc media api</PackageTags>
-    <AssemblyName>JCSystem.Core.Vlc</AssemblyName>
+    <AssemblyName></AssemblyName>
     <RootNamespace>JCSystem.Core.Vlc</RootNamespace>
   </PropertyGroup>
   
